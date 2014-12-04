@@ -7,5 +7,3 @@ how to install:
 2: copy contact folder in your base folder <br />
 3: for change in title, email or description go to config.php and change it <br /> 
 4: that's it you are done <br /><br />
-
-you can contact with me on my mail arfan67 at gmail dot com
